@@ -1,0 +1,7 @@
+{
+  "id": "pyfix",
+  "name": "PyFix",
+  "version": "1.0.0",
+  "description": "Diagnose and fix common Python errors from tracebacks",
+  "entry": "dist/index.js"
+}
